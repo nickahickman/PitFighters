@@ -13,13 +13,14 @@ namespace PitFighters
             while (true)
             {
                 int partySize = GetPartySize();
-                List<Fighter> playerOneFighters = BuildParty.BuildFighterParty(partySize);
+
+                GameState gs = new GameState(partySize);
             }
         }
 
         public string WelcomeMessage()
         {
-            return $"Welcome to pit fighters";
+            return "Welcome to pit fighters!!";
         }
 
         public int GetPartySize()

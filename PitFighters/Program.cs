@@ -7,6 +7,7 @@ namespace PitFighters
         static void Main(string[] args)
         {
             GameManager gm = new GameManager();
+
             gm.Run();
         }
     }

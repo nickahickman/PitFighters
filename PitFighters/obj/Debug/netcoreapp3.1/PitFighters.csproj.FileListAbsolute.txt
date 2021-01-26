@@ -11,3 +11,16 @@ C:\Users\Nick\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighter
 C:\Users\Nick\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.dll
 C:\Users\Nick\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.pdb
 C:\Users\Nick\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.genruntimeconfig.cache
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\bin\Debug\netcoreapp3.1\PitFighters.exe
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\bin\Debug\netcoreapp3.1\PitFighters.deps.json
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\bin\Debug\netcoreapp3.1\PitFighters.runtimeconfig.json
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\bin\Debug\netcoreapp3.1\PitFighters.runtimeconfig.dev.json
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\bin\Debug\netcoreapp3.1\PitFighters.dll
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\bin\Debug\netcoreapp3.1\PitFighters.pdb
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.csprojAssemblyReference.cache
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.AssemblyInfoInputs.cache
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.AssemblyInfo.cs
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.csproj.CoreCompileInputs.cache
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.dll
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.pdb
+C:\Users\HoboPrime\Desktop\PitFighters\PitFighters\obj\Debug\netcoreapp3.1\PitFighters.genruntimeconfig.cache
