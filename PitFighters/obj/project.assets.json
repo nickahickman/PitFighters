@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\HoboPrime\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Nick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HoboPrime\\Desktop\\PitFighters\\PitFighters\\PitFighters.csproj",
+      "projectUniqueName": "C:\\Users\\Nick\\Desktop\\PitFighters\\PitFighters\\PitFighters.csproj",
       "projectName": "PitFighters",
-      "projectPath": "C:\\Users\\HoboPrime\\Desktop\\PitFighters\\PitFighters\\PitFighters.csproj",
-      "packagesPath": "C:\\Users\\HoboPrime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HoboPrime\\Desktop\\PitFighters\\PitFighters\\obj\\",
+      "projectPath": "C:\\Users\\Nick\\Desktop\\PitFighters\\PitFighters\\PitFighters.csproj",
+      "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nick\\Desktop\\PitFighters\\PitFighters\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HoboPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

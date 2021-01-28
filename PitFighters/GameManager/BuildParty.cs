@@ -10,27 +10,17 @@ namespace PitFighters
         {
             List<Fighter> fighters = new List<Fighter>();
 
-            for (int i = 1; i <= count; i++)
+            for (int i = 0; i < count; i++)
             {
                 Console.Clear();
                 Console.WriteLine($"Player {playerNumber}'s party");
                 Console.WriteLine($"---------------------------");
 
-                string name = GetFighterName(i);
+                string name = UserInput.GetStringResponse($"What is fighter {i + 1}'s name? ");
                 fighters.Add(new Fighter(name));
             }
 
             return fighters;
-        }
-
-        public static string GetFighterName(int fighterNumber)
-        {
-            string fighterName = "fighter";
-
-            Console.WriteLine($"What is fighter {fighterNumber}'s name");
-            fighterName = Console.ReadLine();
-
-            return fighterName;
         }
     }
 }

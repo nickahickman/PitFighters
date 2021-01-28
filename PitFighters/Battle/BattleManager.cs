@@ -26,7 +26,20 @@ namespace PitFighters
 
         public string SelectWeapon()
         {
+            return "";
+        }
 
+        public void PrintPartyRosters(GameState gs)
+        {
+
+        }
+
+        public static void PrintParty(List<Fighter> party)
+        {
+            foreach(Fighter f in party)
+            {
+                Console.WriteLine(f.Name);
+            }
         }
     }
 }
